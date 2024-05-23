@@ -1,3 +1,11 @@
+Fork of https://github.com/FrameworkComputer/dgpu-power-state-linux containing quality of life changes for my own personal system
+
+# Changes from Upstream:
+
+
+
+# Original Readme
+
 # dgpu-power-state-linux
 A simple pyudev script to detect if the dGPU is in low power state or not for the Framework Laptop 16; with dGPU attached.
 
